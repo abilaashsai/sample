@@ -1,0 +1,16 @@
+{
+  "name": "bahmni.apps",
+  "version": "0.0.1",
+  "description": "Bahmni Apps",
+  "main": "app/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "karma": "^0.13.00",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "~0.2.4",
+    "karma-firefox-launcher": "~0.1.7",
+    "karma-jasmine": "~0.2.0"
+  }
+}
